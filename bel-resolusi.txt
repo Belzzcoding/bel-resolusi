@@ -3,3 +3,4 @@ Bel Resolusi:
 - Bisa Laravel
 - Proyek Lancar (AAAMINN YA TUHAN)
 - Tugas Akhir Dipermudah
+- Membuat Sistem Pare Event yang Bermanfaat Bagi Masyarakat & Kota Parepare
