@@ -6,6 +6,7 @@ RENCANA PERANGKAT TAMBAHAN UNTUK LAPTOP:
   * Ada Lubang Exhaustnya
 - Keyboard
   ^ Gaming 25%
+  ^ Backlight
 - Mouse
   ^ Wireless
 - Alat Pembersih
