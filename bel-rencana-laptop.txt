@@ -3,8 +3,10 @@ RENCANA PERANGKAT TAMBAHAN UNTUK LAPTOP:
 - Stand Laptop
   * 360 Derajat
   * Aluminium
-  * Ada Lubang Exhaustnya
 - Keyboard
+  ^ Fantech
+  ^ Wireless
 - Mouse
+  ^ Wireless
 - Alat Pembersih
 - Headset/Camera
