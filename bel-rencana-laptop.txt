@@ -4,9 +4,10 @@ RENCANA PERANGKAT TAMBAHAN UNTUK LAPTOP:
   * 360 Derajat
   * Aluminium
 - Keyboard
-  ^ Fantech
-  ^ Wireless
+  ^ Gaming 25%
+  ^ Backlight
 - Mouse
   ^ Wireless
 - Alat Pembersih
 - Headset/Camera
+- Harddisk
